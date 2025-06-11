@@ -1,4 +1,4 @@
-exports.repo = "Hug3O/Scrolls2top"
+exports.repo = "hugo529100/hfs-Scroll-back2Top"
 exports.version = 1.2
 exports.description = "Scrolls to top after 30seconds delay with toggle options."
 exports.apiRequired = 1
